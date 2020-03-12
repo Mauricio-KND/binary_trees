@@ -3,7 +3,7 @@
 /**
  * binary_tree_size - Measures the size of a binary tree.
  *
- * @tree: Pointer to the root node of the tree to measure the size
+ * @tree: Pointer to the root node of the tree to measure the size.
  *
  * Return: 0 if tree is NULL.
  */
